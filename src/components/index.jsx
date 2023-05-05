@@ -1,0 +1,6 @@
+export {default as Nav} from "./Nav/Nav.jsx"
+export {default as Hero} from "./Hero/Hero.jsx"
+export {default as InputForm} from "./InputForm/InputForm.jsx"
+export {default as Advanced} from "./Advanced/Advanced.jsx"
+export {default as BottomSection} from "./BottomSection/BottomSection.jsx"
+export {default as Footer} from "./Footer/Footer.jsx"
